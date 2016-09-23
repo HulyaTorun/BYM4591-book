@@ -1,4 +1,4 @@
-# Linux İşletim Sistemi
+# Linux İşletim Sistemi 
 
 ## GNU/Linux Hakkında
 
